@@ -7,8 +7,11 @@ I'm building my career in Artificial Intelligence and Machine Learning, and this
 ## 🛠️ Skills & Tools
 
 **Languages:** Python, SQL
+
 **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn
+
 **Machine Learning:** Scikit-learn
+
 **Tools:** Jupyter Lab, Git, GitHub, VS Code
 
 ## 📚 Learning Roadmap
